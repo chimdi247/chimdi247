@@ -38,7 +38,6 @@ I am a passionate **DevOps and Cloud Engineer from India** with over **5 years o
 
 ---
 
-## `$ ls technologies/`
 
 ### Cloud, DevOps and Infrastructure
 
