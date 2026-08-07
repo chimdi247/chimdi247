@@ -9,8 +9,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Name-Chimdi%20Raphael-1f6feb?style=for-the-badge" alt="Name: Chimdi Raphael" />
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 5+ Years" />
-  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: Nigeria - Estonia" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 5+ Years" />
+  <img src="https://img.shields.io/badge/Location-Estonia-ff9933?style=for-the-badge" alt="Location: Nigeria - Estonia" />
 </p>
 
 <p>
