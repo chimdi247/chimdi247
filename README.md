@@ -38,6 +38,7 @@ I am a passionate **DevOps and Cloud Engineer from India** with over **5 years o
 
 ---
 
+## `$ ls technologies/`
 
 ### Cloud, DevOps and Infrastructure
 
@@ -65,6 +66,25 @@ I am a passionate **DevOps and Cloud Engineer from India** with over **5 years o
 </p>
 
 ---
+
+
+## `$ git streak`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chimdi247&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+
+## `$ git log --graph --all`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chimdi247&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
+</p>
+
+---
+
 
 ## 🤝 Open to Collaborations
 
