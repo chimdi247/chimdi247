@@ -44,7 +44,7 @@ I am a passionate **DevOps and Cloud Engineer** with over **5 years of experienc
 ### Cloud, DevOps and Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,google,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
 </p>
 
 ### Development and Automation
