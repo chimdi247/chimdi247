@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
 </p>
 
-I am a passionate **DevOps and Cloud Engineer from India** with over **5 years of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
+I am a passionate **DevOps and Cloud Engineer with over **5 years of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
 
 ### Currently Working On
 
