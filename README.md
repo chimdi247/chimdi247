@@ -50,7 +50,7 @@ I am a passionate **DevOps and Cloud Engineer** with over **5 years of experienc
 ### Development and Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,mysql,nginx,vscode,idea,postman&perline=12" alt="Development and automation technologies" />
+ <img src="https://skillicons.dev/icons?i=python,java,nodejs,spring,html,mysql,nginx,vscode,idea,postman&perline=12" alt="Development and automation technologies" />
 </p>
 
 ### DevOps Ecosystem
