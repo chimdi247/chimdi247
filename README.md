@@ -2,7 +2,7 @@
 
 # Hey Everyone 👋, I'm Chimdi Raphael
 
-### DevOps & Cloud Engineer 
+### Backend, DevOps & Cloud Engineer 
 ---
 
 ## 👨‍💻 About Me
