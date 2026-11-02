@@ -9,12 +9,12 @@
 
 <p>
   <img src="https://img.shields.io/badge/Name-Chimdi%20Raphael-1f6feb?style=for-the-badge" alt="Name: Chimdi Raphael" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 7+ Years" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 7+ Years" />
  
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: Software, Data and Cloud " />
+  <img src="https://img.shields.io/badge/Role-Software engineering%20%26%20Cloud%20Data-6f42c1?style=for-the-badge" alt="Role: Software, Data and Cloud " />
 </p>
 
 ### Currently Working On
@@ -42,7 +42,7 @@
 ### Cloud, DevOps and Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,databricks,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
 </p>
 
 ### Development and Automation
