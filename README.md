@@ -32,7 +32,6 @@
 </p>
 
 - 👨‍💻 Projects: [github.com/chimdi247](https://github.com/chimdi247)
-- 💬 Ask me about **DevOps, DevSecOps, AWS, Azure, GCP Kubernetes and CI/CD**
 - 📧 Email: [chimdi247@gmail.com](mailto:chimdi247@gmail.com)
 
 ---
