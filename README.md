@@ -55,15 +55,19 @@
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
 <img src="https://img.shields.io/badge/OpenObserve-5965F2?style=for-the-badge" alt="OpenObserve" />
 
-### 🔄 Data Engineering & Big Data
+### 🔄 Data Engineering, Big Data & Cloud Data Platforms
 
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
 <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" />
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery" />
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry" />
 
-**ETL/ELT • Batch Processing • Stream Processing • Data Orchestration • Real-Time Analytics**
+**ETL/ELT • Batch Processing • Stream Processing • Data Orchestration • Data Warehousing • Lakehouse Architecture • Real-Time Analytics • Cloud AI Services**
 
 ### 🤖 Machine Learning & MLOps
 
