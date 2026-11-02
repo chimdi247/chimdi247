@@ -2,22 +2,20 @@
 
 # Hey Everyone 👋, I'm Chimdi Raphael
 
-### Backend, DevOps, SRE , Cloud Engineer, ML & AI
+### Software Engineering, DevOps, SRE , Cloud, Data, ML & AI (Gen and Agentic)
 ---
 
 ## 👨‍💻 About Me
 
 <p>
   <img src="https://img.shields.io/badge/Name-Chimdi%20Raphael-1f6feb?style=for-the-badge" alt="Name: Chimdi Raphael" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 5+ Years" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 7+ Years" />
  
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
+  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: Software, Data and Cloud " />
 </p>
-
-I am a passionate **DevOps and Cloud Engineer** with over **5 years of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
 
 ### Currently Working On
 
@@ -44,7 +42,7 @@ I am a passionate **DevOps and Cloud Engineer** with over **5 years of experienc
 ### Cloud, DevOps and Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,databricks,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
 </p>
 
 ### Development and Automation
@@ -84,23 +82,6 @@ I am a passionate **DevOps and Cloud Engineer** with over **5 years of experienc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chimdi247&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
 </p>
 
----
-
-
-## 🤝 Open to Collaborations
-
-<p>
-  <img src="https://img.shields.io/badge/Guest%20Sessions-Available-2ea44f?style=for-the-badge" alt="Guest Sessions Available" />
-  <img src="https://img.shields.io/badge/Webinars-Available-2ea44f?style=for-the-badge" alt="Webinars Available" />
-  <img src="https://img.shields.io/badge/YouTube%20Collabs-Open-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Collaborations Open" />
-</p>
-
-- 🎤 Guest sessions and technical webinars
-- 🤝 DevOps project collaborations
-- 💼 DevOps consulting
-- 🧭 Technical mentorship
-
----
 
 <div align="center">
 
@@ -108,6 +89,6 @@ I am a passionate **DevOps and Cloud Engineer** with over **5 years of experienc
 Build • Automate • Secure • Scale
 ```
 
-**⭐ Follow [chimdi247](https://github.com/chimdi247) for practical DevOps projects**
+**⭐ Follow [chimdi247](https://github.com/chimdi247) for practical  projects**
 
 </div>
