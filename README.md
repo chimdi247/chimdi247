@@ -2,7 +2,7 @@
 
 # Hey Everyone 👋, I'm Chimdi Raphael
 
-### Software Engineering | DevOps | SRE | Cloud | Data Engineering | Machine Learning | Generative & Agentic AI
+### Software Engineering | SRE | Cloud | Data Engineering & Streaming | Machine Learning | Generative AI
 
 ---
 
