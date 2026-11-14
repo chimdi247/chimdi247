@@ -41,7 +41,7 @@
 
 ### 💻 Software Development & Automation
 
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,spring,html,mysql,nginx,vscode,idea,postman&perline=7" alt="Development technologies" />
+<img src="https://skillicons.dev/icons?i=python,java,go,nodejs,spring,html,mysql,postgres,mongodb,nginx,vscode,idea,postman&perline=7" alt="Development technologies" />
 
 ### ⚙️ DevOps, GitOps & Observability
 
